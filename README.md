@@ -1,2 +1,2 @@
 # Linear-Reg
-ML Linear Regression.
+ML Linear Regression
